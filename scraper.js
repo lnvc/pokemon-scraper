@@ -94,7 +94,7 @@ async function main() {
         // console.log("pokemon inserted");
       });
     }
-    console.log("mongodb populated");
+    console.log("db populated");
   });
 
 }
